@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Slotfinder</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Mon, 07 Sep 2026 00:14:40 +0300</pubDate>
+            <sparkle:version>202609070014</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/sergey-kuzin/slotfinder-releases/releases/download/v0.1.0/Slotfinder-0.1.0.dmg" length="2708470" type="application/octet-stream" sparkle:edSignature="q1aKWBCeyL3gCqRGddc3HA1Ds4NTM0gIOmUs4oYS2Dd1mtxk0UrP5Kca57nTtcm94I0uS1qoV1NUo1AA43blAA=="/>
+        </item>
+    </channel>
+</rss>
