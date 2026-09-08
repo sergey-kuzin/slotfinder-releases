@@ -3,6 +3,15 @@
     <channel>
         <title>Slotfinder</title>
         <item>
+            <title>0.1.7</title>
+            <pubDate>Tue, 08 Sep 2026 18:10:49 +0300</pubDate>
+            <sparkle:version>202609081810</sparkle:version>
+            <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/sergey-kuzin/slotfinder-releases/releases/download/v0.1.7/Slotfinder-0.1.7.dmg" length="3000716" type="application/octet-stream" sparkle:edSignature="tifzrU3qfoNnJeTksWr/lvtOLXZLuiG4uqpZf+0NAR8BBZJYeVR81kD/8TSsbnlPnTqnkYpPiZY2SwljoOhAAg=="/>
+        </item>
+        <item>
             <title>0.1.6</title>
             <pubDate>Tue, 08 Sep 2026 17:59:39 +0300</pubDate>
             <sparkle:version>202609081759</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/sergey-kuzin/slotfinder-releases/releases/download/v0.1.5/Slotfinder-0.1.5.dmg" length="2991096" type="application/octet-stream" sparkle:edSignature="leW6CCxP1VbZqFA7cbNr02PhbdlvsIxI22/9GhaT6310hMJ/BEvx/xVzfEZZ7SuX30vReiZN198WKqChQ0LTCg=="/>
-        </item>
-        <item>
-            <title>0.1.4</title>
-            <pubDate>Tue, 08 Sep 2026 17:07:59 +0300</pubDate>
-            <sparkle:version>202609081707</sparkle:version>
-            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/sergey-kuzin/slotfinder-releases/releases/download/v0.1.4/Slotfinder-0.1.4.dmg" length="2986497" type="application/octet-stream" sparkle:edSignature="EJgshW7OTpGWak6hfIi/gNRsQ1Kh6dlxTZSiEl42eyDnMg5894YFvsdHzlUv7r03ksSsoBgN7byhxIxt2GjgCA=="/>
         </item>
     </channel>
 </rss>
