@@ -3,6 +3,15 @@
     <channel>
         <title>Slotfinder</title>
         <item>
+            <title>0.1.11</title>
+            <pubDate>Tue, 29 Sep 2026 18:32:20 +0300</pubDate>
+            <sparkle:version>202609291832</sparkle:version>
+            <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/sergey-kuzin/slotfinder-releases/releases/download/v0.1.11/Slotfinder-0.1.11.dmg" length="2873698" type="application/octet-stream" sparkle:edSignature="fF1GNwku5nxrXF7e5japqyYKzmId9tAMeUG4BzkFgjPi/W0Te4pQDEU9XOVGAU5dCRURtwxLO+xJBuEtDO+SCg=="/>
+        </item>
+        <item>
             <title>0.1.10</title>
             <pubDate>Wed, 23 Sep 2026 10:10:59 +0300</pubDate>
             <sparkle:version>202609231010</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/sergey-kuzin/slotfinder-releases/releases/download/v0.1.9/Slotfinder-0.1.9.dmg" length="3000740" type="application/octet-stream" sparkle:edSignature="EwwvsYgy9xuDlYsz0Nn7o+GFzaggOP6UYTHyLhwopZ5Ksq4VaTfVj96wxnYMV954igi26EQekNLB6Un5VT6TAQ=="/>
-        </item>
-        <item>
-            <title>0.1.8</title>
-            <pubDate>Tue, 08 Sep 2026 18:16:24 +0300</pubDate>
-            <sparkle:version>202609081816</sparkle:version>
-            <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/sergey-kuzin/slotfinder-releases/releases/download/v0.1.8/Slotfinder-0.1.8.dmg" length="3000746" type="application/octet-stream" sparkle:edSignature="z7N5E3tLE/86aL/077FbW/URaL0mafxxeSC3jzSisw8yK0x/0lln11j77eUIJ+ZOKJhw1t5aG/xSJEUU4HxHBA=="/>
         </item>
     </channel>
 </rss>
